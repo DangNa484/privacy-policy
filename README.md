@@ -2,24 +2,24 @@ The custom command list provides tools for generating bilingual English-Vietname
 
 Translation and Formatting Commands:
 
-[/b]/translate-content[/b]: Translates entire English content into Vietnamese.
+/translate-content   :   Translates entire English content into Vietnamese.
 
-/format-entry: Structures bilingual entries by placing the English question or content followed directly by its Vietnamese translation.
+/format-entry   :   Structures bilingual entries by placing the English question or content followed directly by its Vietnamese translation.
 
-/translate-line: Translates single English sentences or segments for line-by-line formatting.
+/translate-line   :   Translates single English sentences or segments for line-by-line formatting.
 
-/format-line-entry: Creates line-by-line bilingual entries, aligning English sentences with their Vietnamese translations beneath them.
+/format-line-entry   :   Creates line-by-line bilingual entries, aligning English sentences with their Vietnamese translations beneath them.
 
 Consistency and Special Term Handling:
 
-/check-consistency and /check-line-consistency: Ensure each English entry or sentence has a Vietnamese translation, highlighting any missing parts.
+/check-consistency and /check-line-consistency   :   Ensure each English entry or sentence has a Vietnamese translation, highlighting any missing parts.
 
-/handle-special-terms: Manages complex or technical terms, providing translations or explanations in Vietnamese as needed.
+/handle-special-terms   :   Manages complex or technical terms, providing translations or explanations in Vietnamese as needed.
 
 Compilation and Quality Review:
 
-/compile-document and /compile-line-document: Assemble all entries into a cohesive bilingual document in paragraph-based or line-by-line format.
+/compile-document and /compile-line-document   :   Assemble all entries into a cohesive bilingual document in paragraph-based or line-by-line format.
 
-/quality-review and /quality-review-line: Conduct a final quality check on the compiled document to verify accuracy and format consistency before distribution.
+/quality-review and /quality-review-line   :   Conduct a final quality check on the compiled document to verify accuracy and format consistency before distribution.
 
 This command set ensures comprehensive support for creating structured, bilingual educational documents that are clear, accessible, and meet high standards of educational translation accuracy​​.
