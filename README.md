@@ -2,7 +2,7 @@ The custom command list provides tools for generating bilingual English-Vietname
 
 Translation and Formatting Commands:
 
-/translate-content: Translates entire English content into Vietnamese.
+[/b]/translate-content[/b]: Translates entire English content into Vietnamese.
 
 /format-entry: Structures bilingual entries by placing the English question or content followed directly by its Vietnamese translation.
 
